@@ -1,2 +1,2 @@
 # zaid-demo
-first git reposiory
+first git repository
